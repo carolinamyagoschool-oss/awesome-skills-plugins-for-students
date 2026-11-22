@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "awesome-skills-plugins-for-students": {
+      "source": {
+        "source": "github",
+        "repo": "carolinamyagoschool-oss/awesome-skills-plugins-for-students"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "alirezarezvani-claude-skills-research-meta-research@awesome-skills-plugins-for-students": true
+  }
+}
